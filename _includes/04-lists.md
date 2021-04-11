@@ -1,4 +1,4 @@
--sweet
--candy
--milk
--others
+- sweet
+- candy
+- milk
+- others
