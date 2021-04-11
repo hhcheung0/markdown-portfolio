@@ -1,2 +1,4 @@
-*[] candy
-*[] milk
+-sweet
+-candy
+-milk
+-others
